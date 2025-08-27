@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-v1",
+  "private": true,
+  "workspaces": ["apps/web"],
+  "scripts": {
+    "dev": "turbo dev --filter=web",
+    "build": "turbo build --filter=web",
+    "lint": "turbo lint --filter=web",
+    "test": "echo \"No tests yet\""
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  }
+}
