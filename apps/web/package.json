@@ -14,9 +14,13 @@
     "react-dom": "latest"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.12",
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.11",
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
+    "eslint-config-prettier": "^10.1.8",
     "postcss": "latest",
     "prettier": "latest",
     "tailwindcss": "latest",
