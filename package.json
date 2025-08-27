@@ -1,6 +1,7 @@
 {
   "name": "portfolio-v1",
   "private": true,
+  "packageManager": "npm@11.4.2",
   "workspaces": ["apps/web"],
   "scripts": {
     "dev": "turbo dev --filter=web",
